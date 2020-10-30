@@ -1,2 +1,2 @@
 # flutter-learning
-A basic learning anout flutter
+A basic learning about flutter
